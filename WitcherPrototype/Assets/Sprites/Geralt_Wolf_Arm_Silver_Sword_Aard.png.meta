@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: b0ea9c11d2fef7041846bc88ac591984
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_Wolf_Arm_Silver_Sword_Aard_0
+    21300002: Geralt_Wolf_Arm_Silver_Sword_Aard_1
+    21300004: Geralt_Wolf_Arm_Silver_Sword_Aard_2
+    21300006: Geralt_Wolf_Arm_Silver_Sword_Aard_3
+    21300008: Geralt_Wolf_Arm_Silver_Sword_Aard_4
+    21300010: Geralt_Wolf_Arm_Silver_Sword_Aard_5
+    21300012: Geralt_Wolf_Arm_Silver_Sword_Aard_6
+    21300014: Geralt_Wolf_Arm_Silver_Sword_Aard_7
+    21300016: Geralt_Wolf_Arm_Silver_Sword_Aard_8
+    21300018: Geralt_Wolf_Arm_Silver_Sword_Aard_9
+    21300020: Geralt_Wolf_Arm_Silver_Sword_Aard_10
+    21300022: Geralt_Wolf_Arm_Silver_Sword_Aard_11
+    21300024: Geralt_Wolf_Arm_Silver_Sword_Aard_12
+    21300026: Geralt_Wolf_Arm_Silver_Sword_Aard_13
+    21300028: Geralt_Wolf_Arm_Silver_Sword_Aard_14
+    21300030: Geralt_Wolf_Arm_Silver_Sword_Aard_15
+    21300032: Geralt_Wolf_Arm_Silver_Sword_Aard_16
+    21300034: Geralt_Wolf_Arm_Silver_Sword_Aard_17
+    21300036: Geralt_Wolf_Arm_Silver_Sword_Aard_19
+    21300038: Geralt_Wolf_Arm_Silver_Sword_Aard_21
+    21300040: Geralt_Wolf_Arm_Silver_Sword_Aard_23
+    21300042: Geralt_Wolf_Arm_Silver_Sword_Aard_24
+    21300044: Geralt_Wolf_Arm_Silver_Sword_Aard_26
+    21300046: Geralt_Wolf_Arm_Silver_Sword_Aard_31
+    21300048: Geralt_Wolf_Arm_Silver_Sword_Aard_33
+    21300050: Geralt_Wolf_Arm_Silver_Sword_Aard_35
+    21300052: Geralt_Wolf_Arm_Silver_Sword_Aard_36
+    21300054: Geralt_Wolf_Arm_Silver_Sword_Aard_39
+    21300056: Geralt_Wolf_Arm_Silver_Sword_Aard_41
+    21300058: Geralt_Wolf_Arm_Silver_Sword_Aard_42
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed3603ec86f934b9c5c765f4d32380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 471
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.64, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df227251726f340bb5819173cdc355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 473
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58336f6cacf82c4ca1100f59dfe7d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 476
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ca86566f103b243b761eda2e1ab889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 466
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6538462, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a7c915843cba44a7ed12b952017af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 416
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bea7d58d6ccacf44a3dc6eafc3088fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb3e8d2790c644ea99aae918c90430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 364
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ad9de95ffa449498cedf9bf7d7d0d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 364
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2e37a48223c4f459b90b567f0c4d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 364
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3875f8b319d01458df35a8cd7f9ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 364
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016014efe8c570d4798f2e74b78ef390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 364
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815df683cbcffbf45b3fb19b66f3ec22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2db9a14f4554a04ab144d9e55a1b17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 314
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f826843c2ea1774dba1793e4c014585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9734d03fa3c34c2419ffc2a471f172ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 268
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605e80f3a313e3b478b902feb0ab1692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 267
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fef501a5d97344a1e12685d1a3196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 269
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c99f4c6b138345b1108302662130e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8277bba7793f949b29bab4cac51d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 210
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b23c32efb09db245807c22169214c39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 209
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.22580644, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758848f530d33794093e9780d85953f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 153
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80a5a11ac883448a09ec8b7ecf15e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.71999997, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966f3dec025298499569de050ddd3da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7666667, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e2e1f338af729449075a681c85b718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1dc1952c86a84db7f6218df40705f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7741935, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54d172424b0f4f4bb7ace5e87e26527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7666667, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ab8ff38c3671489b29e3be23b2958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Silver_Sword_Aard_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cca81c55053931488283299ebbc2199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1f6be26734d6f34b9d51806e0cc6ac0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

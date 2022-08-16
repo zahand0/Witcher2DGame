@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: caa3d727240c292428fdfa3c2263564a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_Wolf_Arm_Wooden_Sword_Aard_0
+    21300002: Geralt_Wolf_Arm_Wooden_Sword_Aard_1
+    21300004: Geralt_Wolf_Arm_Wooden_Sword_Aard_2
+    21300006: Geralt_Wolf_Arm_Wooden_Sword_Aard_3
+    21300008: Geralt_Wolf_Arm_Wooden_Sword_Aard_4
+    21300010: Geralt_Wolf_Arm_Wooden_Sword_Aard_6
+    21300012: Geralt_Wolf_Arm_Wooden_Sword_Aard_7
+    21300014: Geralt_Wolf_Arm_Wooden_Sword_Aard_8
+    21300016: Geralt_Wolf_Arm_Wooden_Sword_Aard_9
+    21300018: Geralt_Wolf_Arm_Wooden_Sword_Aard_10
+    21300020: Geralt_Wolf_Arm_Wooden_Sword_Aard_11
+    21300022: Geralt_Wolf_Arm_Wooden_Sword_Aard_12
+    21300024: Geralt_Wolf_Arm_Wooden_Sword_Aard_13
+    21300026: Geralt_Wolf_Arm_Wooden_Sword_Aard_15
+    21300028: Geralt_Wolf_Arm_Wooden_Sword_Aard_16
+    21300030: Geralt_Wolf_Arm_Wooden_Sword_Aard_17
+    21300032: Geralt_Wolf_Arm_Wooden_Sword_Aard_19
+    21300034: Geralt_Wolf_Arm_Wooden_Sword_Aard_21
+    21300036: Geralt_Wolf_Arm_Wooden_Sword_Aard_23
+    21300038: Geralt_Wolf_Arm_Wooden_Sword_Aard_24
+    21300040: Geralt_Wolf_Arm_Wooden_Sword_Aard_26
+    21300042: Geralt_Wolf_Arm_Wooden_Sword_Aard_31
+    21300044: Geralt_Wolf_Arm_Wooden_Sword_Aard_33
+    21300046: Geralt_Wolf_Arm_Wooden_Sword_Aard_35
+    21300048: Geralt_Wolf_Arm_Wooden_Sword_Aard_36
+    21300050: Geralt_Wolf_Arm_Wooden_Sword_Aard_39
+    21300052: Geralt_Wolf_Arm_Wooden_Sword_Aard_41
+    21300054: Geralt_Wolf_Arm_Wooden_Sword_Aard_42
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570168471b8afb0448e8d6494859c1bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 471
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.64, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5599256b24047144acaf6652157bc78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 473
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ad583c9f51ae438a3d7eb6ad4c489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 476
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f05ace525c2244bfe8c6efcd13b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 466
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6538462, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85afabe4af3884099b44ae19aada65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 416
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb028ffded62f934ebcb1cd6f2089cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b391802f937d14cbfe6c9c6f66a2f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 364
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7697f57bdb6c5df4190add73b6bdb43b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 364
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d415fde532366b645b0b327a22db0bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 364
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919ae7476c1821b458ff325f58eab48d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 364
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a60e6c68b91174b812ac8d3e23c32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 364
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6131e3a3ecd025346b820b5a010c6b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23162da4534935c43b11584f9e430ba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 314
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20de1a2f25fe7a4d8c8448c1b492499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66193f9ee2679504ca63cacc84b09cd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 268
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf02c886fc67c84aa6a4d8e941f4a66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 267
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ef9421d4eb2114a8fdd67b2653910c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 269
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576ad5551a8c38348819436885ad159a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843c77ddbfe1a94d97597b0e1a3fdaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 210
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6972e35db30197f49abd5cf3265d3344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 209
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.22580644, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1b3309ae2cae446a1225e917301f07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 153
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2478ef95ee867d4e902f422542dc292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.71999997, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113eb439c40119c4280bc278f81ff038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7666667, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4af8e8e12ca044bb61e858e13dd828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73252b9a010ec5a40bcad21cfbe396a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7741935, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac537467e64720d46ab9d25d6c390c8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7666667, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0cbdd234f7e104db94e889a617cbb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Wolf_Arm_Wooden_Sword_Aard_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1812bfc5fd053a046bcbbd519ae64863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 73e3c609e8a60d3439539eeb137b0e60
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

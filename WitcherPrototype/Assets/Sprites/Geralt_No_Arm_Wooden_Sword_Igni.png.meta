@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 7430dd33b285d2e49aa6c5a03cd20e7e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_No_Arm_Wooden_Sword_Igni_0
+    21300002: Geralt_No_Arm_Wooden_Sword_Igni_1
+    21300004: Geralt_No_Arm_Wooden_Sword_Igni_2
+    21300006: Geralt_No_Arm_Wooden_Sword_Igni_3
+    21300008: Geralt_No_Arm_Wooden_Sword_Igni_4
+    21300010: Geralt_No_Arm_Wooden_Sword_Igni_5
+    21300012: Geralt_No_Arm_Wooden_Sword_Igni_6
+    21300014: Geralt_No_Arm_Wooden_Sword_Igni_7
+    21300016: Geralt_No_Arm_Wooden_Sword_Igni_8
+    21300018: Geralt_No_Arm_Wooden_Sword_Igni_9
+    21300020: Geralt_No_Arm_Wooden_Sword_Igni_10
+    21300022: Geralt_No_Arm_Wooden_Sword_Igni_11
+    21300024: Geralt_No_Arm_Wooden_Sword_Igni_12
+    21300026: Geralt_No_Arm_Wooden_Sword_Igni_13
+    21300028: Geralt_No_Arm_Wooden_Sword_Igni_14
+    21300030: Geralt_No_Arm_Wooden_Sword_Igni_15
+    21300032: Geralt_No_Arm_Wooden_Sword_Igni_16
+    21300034: Geralt_No_Arm_Wooden_Sword_Igni_17
+    21300036: Geralt_No_Arm_Wooden_Sword_Igni_18
+    21300038: Geralt_No_Arm_Wooden_Sword_Igni_19
+    21300040: Geralt_No_Arm_Wooden_Sword_Igni_20
+    21300042: Geralt_No_Arm_Wooden_Sword_Igni_22
+    21300044: Geralt_No_Arm_Wooden_Sword_Igni_25
+    21300046: Geralt_No_Arm_Wooden_Sword_Igni_26
+    21300048: Geralt_No_Arm_Wooden_Sword_Igni_27
+    21300050: Geralt_No_Arm_Wooden_Sword_Igni_28
+    21300052: Geralt_No_Arm_Wooden_Sword_Igni_31
+    21300054: Geralt_No_Arm_Wooden_Sword_Igni_33
+    21300056: Geralt_No_Arm_Wooden_Sword_Igni_34
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 467
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7083334, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c346279c05112a0408ca2f2433f7c4a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 470
+        width: 20
+        height: 35
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d2fcde99d75546bc063619b63d522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 473
+        width: 20
+        height: 32
+      alignment: 9
+      pivot: {x: 0.65000004, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac46a3a12c45045ade6f6022e2b4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 476
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b025f409ca6384340b117ac1ae6720ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 467
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7083334, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3f68b19d0e6184ebaf9c7b86ad20d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 418
+        width: 24
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7083334, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3678af3ca78481e46aaea684719aee34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ded2a0f0236704e97038b7ae0d96f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 364
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d324a4357382b4c9bab874d4ee26f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 364
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd7480f635a8f14a819b9475b681c11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 364
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ae6b8c175467419349aafc963e8a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 364
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fe25ddc95daac47bfc68d32c8c1662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 364
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f205409368a794c9b5c1b5cab85e66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 315
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59aa776f47048d418f5855c1ae58110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 314
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a27d7bf14af3a841bdd23f9af234ca5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1986aff3e5727564d927cef5686b8021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 269
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2413793, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a04e23da161342939572c5832a869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 269
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.26923078, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096637f390d528441b2dde23fcc1f28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 269
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d291eccc44ae5f4694c3bf12c22938e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3888889, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0949940ce0e4ee40b4f65a2ffa9f2ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 212
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2413793, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e93844078b2e9448f0db2e2db94941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 212
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2413793, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647df193bece82d4491140914456473c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 153
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604f0f28f46cab84fb130ea76b0da9e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 153
+        width: 26
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7307693, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a1b17e514ea4a4c9ee3556b31abec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 150
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a341e565a7454790f053cb02ad510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadaf335e3d7b2a4197fcca659676edb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770c190e9a329a249b3ffc67cec083b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 29
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d5d5bb5170b143acfcccf6ea28e23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Igni_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 96
+        width: 18
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44720193baa2e5c48873bc51e1a52eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c87cc3676220fcf478765fb7b33ac3bc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

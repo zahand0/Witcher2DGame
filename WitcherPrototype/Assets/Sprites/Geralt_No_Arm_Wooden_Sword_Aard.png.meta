@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 4df6d10cafa447d419d8f5b34086b927
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_No_Arm_Wooden_Sword_Aard_0
+    21300002: Geralt_No_Arm_Wooden_Sword_Aard_1
+    21300004: Geralt_No_Arm_Wooden_Sword_Aard_2
+    21300006: Geralt_No_Arm_Wooden_Sword_Aard_3
+    21300008: Geralt_No_Arm_Wooden_Sword_Aard_4
+    21300010: Geralt_No_Arm_Wooden_Sword_Aard_5
+    21300012: Geralt_No_Arm_Wooden_Sword_Aard_6
+    21300014: Geralt_No_Arm_Wooden_Sword_Aard_7
+    21300016: Geralt_No_Arm_Wooden_Sword_Aard_8
+    21300018: Geralt_No_Arm_Wooden_Sword_Aard_9
+    21300020: Geralt_No_Arm_Wooden_Sword_Aard_10
+    21300022: Geralt_No_Arm_Wooden_Sword_Aard_11
+    21300024: Geralt_No_Arm_Wooden_Sword_Aard_12
+    21300026: Geralt_No_Arm_Wooden_Sword_Aard_13
+    21300028: Geralt_No_Arm_Wooden_Sword_Aard_14
+    21300030: Geralt_No_Arm_Wooden_Sword_Aard_15
+    21300032: Geralt_No_Arm_Wooden_Sword_Aard_16
+    21300034: Geralt_No_Arm_Wooden_Sword_Aard_17
+    21300036: Geralt_No_Arm_Wooden_Sword_Aard_18
+    21300038: Geralt_No_Arm_Wooden_Sword_Aard_19
+    21300040: Geralt_No_Arm_Wooden_Sword_Aard_20
+    21300042: Geralt_No_Arm_Wooden_Sword_Aard_21
+    21300044: Geralt_No_Arm_Wooden_Sword_Aard_22
+    21300046: Geralt_No_Arm_Wooden_Sword_Aard_23
+    21300048: Geralt_No_Arm_Wooden_Sword_Aard_24
+    21300050: Geralt_No_Arm_Wooden_Sword_Aard_25
+    21300052: Geralt_No_Arm_Wooden_Sword_Aard_26
+    21300054: Geralt_No_Arm_Wooden_Sword_Aard_27
+    21300056: Geralt_No_Arm_Wooden_Sword_Aard_28
+    21300058: Geralt_No_Arm_Wooden_Sword_Aard_29
+    21300060: Geralt_No_Arm_Wooden_Sword_Aard_30
+    21300062: Geralt_No_Arm_Wooden_Sword_Aard_31
+    21300064: Geralt_No_Arm_Wooden_Sword_Aard_32
+    21300066: Geralt_No_Arm_Wooden_Sword_Aard_33
+    21300068: Geralt_No_Arm_Wooden_Sword_Aard_34
+    21300070: Geralt_No_Arm_Wooden_Sword_Aard_35
+    21300072: Geralt_No_Arm_Wooden_Sword_Aard_36
+    21300074: Geralt_No_Arm_Wooden_Sword_Aard_37
+    21300076: Geralt_No_Arm_Wooden_Sword_Aard_38
+    21300078: Geralt_No_Arm_Wooden_Sword_Aard_39
+    21300080: Geralt_No_Arm_Wooden_Sword_Aard_40
+    21300082: Geralt_No_Arm_Wooden_Sword_Aard_41
+    21300084: Geralt_No_Arm_Wooden_Sword_Aard_42
+    21300086: Geralt_No_Arm_Wooden_Sword_Aard_43
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f268d877a20e5814ea992fe19b642a6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 471
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.64, y: 0.2647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f4c6bae4fa76b48b77305b80c0045c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 473
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6818182, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae861944bf4154d9122e6832fb941b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 476
+        width: 18
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6111111, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174be6eae10cc1844b71ddc0bfef2ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 466
+        width: 26
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6538462, y: 0.35897437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36942dc35f5e3674a85e364d6d9ca4d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 416
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6551724, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a51007da4ed740b2f8c34866a3774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064212c1b3cad484f98a9ec393d75122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 364
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63564e889e3707488a7b2edfe4065bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 364
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb289fc73247741819209fe6842446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 364
+        width: 23
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87030bca5f534b419baae401911f0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 364
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a1197b1116b554e9367b33d7fcc77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 364
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30769232, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a44fa3ad7c39439b3199b3dc31872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 29
+        height: 30
+      alignment: 9
+      pivot: {x: 0.3448276, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89992a0bd8073bd4d97f482b1a36314f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 314
+        width: 15
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4666667, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8b64d44e404141a8d839b293e12b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410ba445ff0c300499a7cc3ac0bbbc61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 268
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736d8af81e0e3146ac8312620ca846b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 267
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.28, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42b8b6fd5a850546be2cd7c3c87de73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 269
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac69d90f1cfcba47b41f27251d8bf10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 212
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2f175e18edc0040b01aea0394cd404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_24
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 210
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.23333335, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc510340eeaf2648b2a60ea0d35293d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 209
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.22580644, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d7686566cbdea4992617cafa604da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 153
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554233826616f7c46bc1b8fe7712b6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 151
+        width: 25
+        height: 29
+      alignment: 9
+      pivot: {x: 0.71999997, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1bb36a00cde7a4b81acb44fa74e8b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149
+        width: 30
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7666667, y: 0.17857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ce5d06dde5ac428991fe3adfa64a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb37aca6faf5a4fa0b1e1d355b8efb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.7741935, y: 0.23333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad03889aa192fa48856323b59bccde5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.7666667, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee45e5d7a94f6374b801750332375e39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Wooden_Sword_Aard_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 96
+        width: 17
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17357df1850e7a249ad697eca9a9fcb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28650541714a1d34c886fc82e5d51255
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

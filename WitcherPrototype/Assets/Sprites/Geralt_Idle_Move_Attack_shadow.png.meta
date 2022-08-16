@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b4c11850e31c8ff4a95b510057a2c765
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_Idle_Move_Attack_shadow_0
+    21300002: Geralt_Idle_Move_Attack_shadow_1
+    21300004: Geralt_Idle_Move_Attack_shadow_2
+    21300006: Geralt_Idle_Move_Attack_shadow_3
+    21300008: Geralt_Idle_Move_Attack_shadow_4
+    21300010: Geralt_Idle_Move_Attack_shadow_5
+    21300012: Geralt_Idle_Move_Attack_shadow_6
+    21300014: Geralt_Idle_Move_Attack_shadow_7
+    21300016: Geralt_Idle_Move_Attack_shadow_8
+    21300018: Geralt_Idle_Move_Attack_shadow_9
+    21300020: Geralt_Idle_Move_Attack_shadow_10
+    21300022: Geralt_Idle_Move_Attack_shadow_11
+    21300024: Geralt_Idle_Move_Attack_shadow_12
+    21300026: Geralt_Idle_Move_Attack_shadow_13
+    21300028: Geralt_Idle_Move_Attack_shadow_14
+    21300030: Geralt_Idle_Move_Attack_shadow_15
+    21300032: Geralt_Idle_Move_Attack_shadow_16
+    21300034: Geralt_Idle_Move_Attack_shadow_17
+    21300036: Geralt_Idle_Move_Attack_shadow_18
+    21300038: Geralt_Idle_Move_Attack_shadow_19
+    21300040: Geralt_Idle_Move_Attack_shadow_20
+    21300042: Geralt_Idle_Move_Attack_shadow_21
+    21300044: Geralt_Idle_Move_Attack_shadow_22
+    21300046: Geralt_Idle_Move_Attack_shadow_23
+    21300048: Geralt_Idle_Move_Attack_shadow_24
+    21300050: Geralt_Idle_Move_Attack_shadow_25
+    21300052: Geralt_Idle_Move_Attack_shadow_26
+    21300054: Geralt_Idle_Move_Attack_shadow_27
+    21300056: Geralt_Idle_Move_Attack_shadow_28
+    21300058: Geralt_Idle_Move_Attack_shadow_29
+    21300060: Geralt_Idle_Move_Attack_shadow_30
+    21300062: Geralt_Idle_Move_Attack_shadow_31
+    21300064: Geralt_Idle_Move_Attack_shadow_32
+    21300066: Geralt_Idle_Move_Attack_shadow_33
+    21300068: Geralt_Idle_Move_Attack_shadow_34
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 203
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def46e0524adc8c439ebe83873b2737f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 202
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786358d53ee969458fec587143044f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 201
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109acfd8eca874145893b541f85704e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 201
+        width: 20
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce393e016997da44db14fd47c726b5e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f692d470f50296648b7b6feec37cec42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 168
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a70a1d24a84b041b4dafb3c4d8ac86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ae72749ef391c4daff4ffa8a6aac11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 168
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12398fcc77516444c87b02d9281fabac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 166
+        width: 34
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be75e7d09da06046a67fb31b1c4eecf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 28
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.31578946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a974a601ba1e9e041a592eb5555655ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 163
+        width: 22
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80ecb6e12ed294aa908d3c7816ccfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 137
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c737050b5dca8b543955916846ce4bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 136
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e94b2ab54f79c4cb41c0bd35d38420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 137
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff35cc6e55cf704fbae7724848932fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 136
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839232d901f01aa45a27f9744cf97162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 114
+        width: 38
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9db8d8367ceb469189f7d23afc8ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37514d85c8ff2c349823f0936a5d03aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 114
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b662a56fb08749b733375ff789dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 114
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d8922ef8b9eda45b8623400322e295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ef7e6a48fda0341a9ee43bcf2c7339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 104
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a0db55c0f4eb4eab67bf5bc9ce5a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 104
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c1316d252e6d748873304a789d0dae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ebca6a7270774382f74c5cf606603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 73
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df8534eb0b401740827e2986766ec06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a0ce3e140b58a4ebf3c4722f86a82b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f72fde8862ca34bb037b270f237605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 72
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ab4f832325d1b4387d7cf6ef2b470c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0021b221b4cc5a4f98783458cd7deed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbd42e8f7db1d449b6971dc35721bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 73
+        width: 36
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83be2a62abc24ec40988ca87166ae497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81918416e3f6fc247805f37ca311803f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 34
+        width: 24
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466964cb120b114c9c24fd90a151f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 35
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ea410583167640b8441f7f42fe683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 35
+        width: 36
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e78b494b52e74eb3cdb45f21d5906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_shadow_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 34
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2aabaffcea2b54197ef828d92f6d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9c71036064d0deb4385b7f785510ab78
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

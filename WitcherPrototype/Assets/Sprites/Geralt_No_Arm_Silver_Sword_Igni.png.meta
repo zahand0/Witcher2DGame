@@ -1,0 +1,688 @@
+fileFormatVersion: 2
+guid: 7be507b91460dca49a1ca2c4e1f941a6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_No_Arm_Silver_Sword_Igni_0
+    21300002: Geralt_No_Arm_Silver_Sword_Igni_1
+    21300004: Geralt_No_Arm_Silver_Sword_Igni_2
+    21300006: Geralt_No_Arm_Silver_Sword_Igni_3
+    21300008: Geralt_No_Arm_Silver_Sword_Igni_4
+    21300010: Geralt_No_Arm_Silver_Sword_Igni_5
+    21300012: Geralt_No_Arm_Silver_Sword_Igni_6
+    21300014: Geralt_No_Arm_Silver_Sword_Igni_7
+    21300016: Geralt_No_Arm_Silver_Sword_Igni_8
+    21300018: Geralt_No_Arm_Silver_Sword_Igni_9
+    21300020: Geralt_No_Arm_Silver_Sword_Igni_10
+    21300022: Geralt_No_Arm_Silver_Sword_Igni_11
+    21300024: Geralt_No_Arm_Silver_Sword_Igni_12
+    21300026: Geralt_No_Arm_Silver_Sword_Igni_13
+    21300028: Geralt_No_Arm_Silver_Sword_Igni_14
+    21300030: Geralt_No_Arm_Silver_Sword_Igni_15
+    21300032: Geralt_No_Arm_Silver_Sword_Igni_16
+    21300034: Geralt_No_Arm_Silver_Sword_Igni_17
+    21300036: Geralt_No_Arm_Silver_Sword_Igni_18
+    21300038: Geralt_No_Arm_Silver_Sword_Igni_19
+    21300040: Geralt_No_Arm_Silver_Sword_Igni_20
+    21300042: Geralt_No_Arm_Silver_Sword_Igni_22
+    21300044: Geralt_No_Arm_Silver_Sword_Igni_25
+    21300046: Geralt_No_Arm_Silver_Sword_Igni_26
+    21300048: Geralt_No_Arm_Silver_Sword_Igni_27
+    21300050: Geralt_No_Arm_Silver_Sword_Igni_28
+    21300052: Geralt_No_Arm_Silver_Sword_Igni_31
+    21300054: Geralt_No_Arm_Silver_Sword_Igni_33
+    21300056: Geralt_No_Arm_Silver_Sword_Igni_34
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 467
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e9640d2457e54c920051f2ebc9c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 470
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2b4e05111da1f41af75bf86b4ec073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 473
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.21875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbce04cd4e4e14428d961d29783d937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 475
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea7c3ee85fd23348991db99c992bffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 467
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580ea75aeddb0643934393efded8af8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 418
+        width: 34
+        height: 38
+      alignment: 9
+      pivot: {x: 0.5, y: 0.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b28a178dde52047951504cb0d9add6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 426
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19f74f6bcda7d6479b452d19701a156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 363
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7356f14935985b542b430d4edf2984ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 363
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec69e52f1134b9f459693c27d5515000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 363
+        width: 24
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320fc73a3cf5d20498f10f2f45961200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 363
+        width: 18
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36587996122a04fb52968dda0e8350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 363
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e815036b39ba346add4bbdd683d373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 314
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d602d46db1124299cae142abfdab6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 314
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2054c939988ac84a9995fb5f3293ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 267
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372a3518400ab2b46b04683ddd016f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 267
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbd8a3ef17beba4693b40ccd18274fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_17
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 267
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65939ac078491804d8a1138f0b92cb3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 267
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bce22d6218f2e4ea14f80de363f136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 210
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37416169a93bef141954f97cedb4362e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_20
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d3393e2f4523e478a9a27363af10ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 210
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc969dadfae5f4488ea703d0009b7d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 151
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd661151c591854f97c8eb54538a3fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 151
+        width: 38
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d07808c1b24a74e8d299b4b630683f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 148
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c31fac80c333499925bb43c9fa96d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 148
+        width: 14
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13793103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303d5ccc1ba8ed478d2c7d9d3b9d01c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 94
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb50f76efead2514d8b687ce5b7c60e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_33
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 94
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2923e17f4ea0945926606b70480910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_No_Arm_Silver_Sword_Igni_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 94
+        width: 22
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9316429c3e6b00c4a8ebce92c63f67dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 94d2541c9d4fe93459a5473dd92a94ff
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

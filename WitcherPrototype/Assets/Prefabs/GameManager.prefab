@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2858920375126440580
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2858920375126440602}
+  - component: {fileID: 2858920375126440581}
+  m_Layer: 0
+  m_Name: PlayerStats
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2858920375126440602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2858920375126440580}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.0948372, y: -16.643578, z: 0.5481014}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2586767279355658197}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2858920375126440581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2858920375126440580}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80232cfb3bb62840b63c1584fbb6e7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: Geralt
+  playerLevel: 1
+  currentEXP: 100
+  expToNextLevel: 
+  maxLevel: 10
+  baseEXP: 1000
+  currentHP: 100
+  maxHP: 100
+  currentMP: 30
+  maxMP: 30
+  strength: 8
+  defence: 3
+  wpnPwr: 5
+  armrPwr: 3
+  equippedWpn: "\u0422\u0440\u0435\u043D\u0438\u0440\u043E\u0432\u043E\u0447\u043D\u044B\u0439
+    \u043C\u0435\u0447"
+  equippedArmr: "\u0411\u0435\u043B\u0430\u044F \u0440\u0443\u0431\u0430\u0448\u043A\u0430"
+  igniDamage: 35
+  aardDamage: 20
+  manaIgni: 20
+  manaAard: 20
+  charImage: {fileID: 21300002, guid: d60d23155f258544cb8d6c4bf8e3671f, type: 3}
+--- !u!1 &3426012922992424717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2586767279355658197}
+  - component: {fileID: 5820111319722115426}
+  - component: {fileID: 942286798}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2586767279355658197
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3426012922992424717}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 58.01769, y: 7.576473, z: 12.373774}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2858920375126440602}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5820111319722115426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3426012922992424717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639af73b1e0f75041a5d3ecfe0c26315, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerStats: {fileID: 2858920375126440581}
+  gameMenuOpen: 0
+  dialogActive: 0
+  fadingBetweenAreas: 0
+  shopActive: 0
+  death: 0
+  chestActive: 0
+  attacking: 0
+  itemsHeld:
+  - "\u041B\u0430\u0441\u0442\u043E\u0447\u043A\u0430"
+  - "\u0424\u0438\u043B\u0438\u043D"
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  numberOfItems: 05000000030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  referenceItems:
+  - {fileID: 587456845881462416, guid: cf6235c8abea629428b52c7e55aa2e12, type: 3}
+  - {fileID: 9138989700985855271, guid: 0ef63cf75e6b8a14f8d8209cc4c7814b, type: 3}
+  - {fileID: 5451051026951090810, guid: c524419efe815c146bdca633f667efc1, type: 3}
+  - {fileID: 3624010094632811952, guid: 576bbe41db59f4241acbaa8e29252f33, type: 3}
+  - {fileID: 1663285830241807536, guid: 51c8f556f9d1c7644aa86411da1150a0, type: 3}
+  - {fileID: 6539729049978068488, guid: 134a18554411fd54e95de83457ff130b, type: 3}
+  currentGold: 50
+  loaded: 0
+  jstLoaded: 1
+  leanedIgni: 0
+  leanedAard: 0
+  signNum: 0
+  isDead: 0
+--- !u!114 &942286798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3426012922992424717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9db50662a6182054aa19d8c5797961f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  questMarkerNames:
+  - 
+  - Order for the drowners
+  - Take reward after kill drowner
+  - Kill the drowners
+  - Kill the Golem
+  - Say to Oldman, drowners are dead
+  - Order for Golem
+  - Say to Oldman, Golem is dead
+  - Take reward after kill Golem
+  questMarkersComplete: 

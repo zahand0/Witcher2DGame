@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 71fd9964841c2a54480631ccec7e768f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Geralt_Idle_Move_Attack_noBG_0
+    21300002: Geralt_Idle_Move_Attack_noBG_1
+    21300004: Geralt_Idle_Move_Attack_noBG_2
+    21300006: Geralt_Idle_Move_Attack_noBG_3
+    21300008: Geralt_Idle_Move_Attack_noBG_4
+    21300010: Geralt_Idle_Move_Attack_noBG_5
+    21300012: Geralt_Idle_Move_Attack_noBG_6
+    21300014: Geralt_Idle_Move_Attack_noBG_7
+    21300016: Geralt_Idle_Move_Attack_noBG_8
+    21300018: Geralt_Idle_Move_Attack_noBG_9
+    21300020: Geralt_Idle_Move_Attack_noBG_10
+    21300022: Geralt_Idle_Move_Attack_noBG_11
+    21300024: Geralt_Idle_Move_Attack_noBG_12
+    21300026: Geralt_Idle_Move_Attack_noBG_13
+    21300028: Geralt_Idle_Move_Attack_noBG_14
+    21300030: Geralt_Idle_Move_Attack_noBG_15
+    21300032: Geralt_Idle_Move_Attack_noBG_16
+    21300034: Geralt_Idle_Move_Attack_noBG_17
+    21300036: Geralt_Idle_Move_Attack_noBG_18
+    21300038: Geralt_Idle_Move_Attack_noBG_19
+    21300040: Geralt_Idle_Move_Attack_noBG_20
+    21300042: Geralt_Idle_Move_Attack_noBG_21
+    21300044: Geralt_Idle_Move_Attack_noBG_22
+    21300046: Geralt_Idle_Move_Attack_noBG_23
+    21300048: Geralt_Idle_Move_Attack_noBG_24
+    21300050: Geralt_Idle_Move_Attack_noBG_25
+    21300052: Geralt_Idle_Move_Attack_noBG_26
+    21300054: Geralt_Idle_Move_Attack_noBG_27
+    21300056: Geralt_Idle_Move_Attack_noBG_28
+    21300058: Geralt_Idle_Move_Attack_noBG_29
+    21300060: Geralt_Idle_Move_Attack_noBG_30
+    21300062: Geralt_Idle_Move_Attack_noBG_31
+    21300064: Geralt_Idle_Move_Attack_noBG_32
+    21300066: Geralt_Idle_Move_Attack_noBG_33
+    21300068: Geralt_Idle_Move_Attack_noBG_34
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 205
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca8a0012c5b6d4d934670c238f141a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 204
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbbb668e02880b4f828fb3d933c673e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 203
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bd004e22c2de84cb84a5057ed6aeb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 203
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06027a4918322341bb75fe15fb7d50f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 170
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef0b866add978478a05f6d9d6c1c02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 170
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26b66e236622e640b9064f4fd748dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff00f85a02f5f44b098de8ebf5a88e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 170
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c6b76d93cdc734ca6b81220a78709f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 166
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fbd9db76cd2df4485d37e2f81fcd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453cb30c1a3c4ae40adf511cdcee04a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 163
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ff7b36b764dd94d9d5da0f5faa5de9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 138
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4003581987d4eae42816c9cea31335af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 138
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8deebb4dcb26b4dac715ec2dda57d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 138
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f033725f970ca4ca11a312e71463f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 138
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef82527b02c1f954ab84c8b7e1935604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 116
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daffdcc2c2a74b24fb0a37a17ba09cab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 116
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5f8b97b83dec439d45c044b481169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 116
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb48e7c7b11ca41bd6f4733b6ad728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 116
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fff6523159096f4393a2889251c8280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 106
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589f09aa3e3ec9a4093936433f27d05c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 106
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30efa7eb42967d4885ab79c90290f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 106
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7d444755ca565409cefd30b864df65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 106
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcacb7ee3cddca24695c1c4be2544c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b056c8414a1c4b4280f7e2c447930e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 74
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ee7d7f7a97f2d459a931343a33f80e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 74
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aea9331f536114d83b70c6baac0e46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 74
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1be9c6797a82544944dbb87f05ec78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 74
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c7695fff231ff4fbec0592776862a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 74
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eb3525fd713cc4eb93ae7f2d3213a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 74
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd88aa8b8eccc4798a190c8497b612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 74
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f923734f44913e4992cfa6d393fcbd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 36
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0cf881572e04f48b6b3b1cefbe7e75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77664164ccfef64e9c7e745e9110530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 36
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9816db1f0ddee9646b968436ba7f2674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Geralt_Idle_Move_Attack_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 36
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a8032c82a5751488cfdeb0b43a83e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5fa9001941845dd41857f7e6bc9205e9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
